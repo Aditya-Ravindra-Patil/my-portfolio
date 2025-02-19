@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.039bf95e.css",
+    "main.js": "/Portfolio/static/js/main.0979ba72.js",
+    "static/media/aditya.jpg": "/Portfolio/static/media/aditya.31b398277ef5b68090d1.jpg",
+    "static/media/Hello.gif": "/Portfolio/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Aditya Patil CV.pdf": "/Portfolio/static/media/Aditya Patil CV.8f3fb3f67f50cfe1421b.pdf",
+    "static/media/illustration.svg": "/Portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/Portfolio/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/node-icon.svg": "/Portfolio/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/Portfolio/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/bootstrap-icon.svg": "/Portfolio/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/Portfolio/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/java_icon.svg": "/Portfolio/static/media/java_icon.5386b56c3206b6bd70b1053534d73dc3.svg",
+    "static/media/phone-icon.svg": "/Portfolio/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/shopify.svg": "/Portfolio/static/media/shopify.162913e43c02c125fd0720d80fc0dba3.svg",
+    "static/media/github.svg": "/Portfolio/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/Portfolio/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/html-icon.svg": "/Portfolio/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/wordpress.svg": "/Portfolio/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
+    "static/media/css-icon.svg": "/Portfolio/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/adobe-illustrator-icon.svg": "/Portfolio/static/media/adobe-illustrator-icon.8aa316ba754d1d2f479207885c6fca59.svg",
+    "static/media/tailwindcss-icon.svg": "/Portfolio/static/media/tailwindcss-icon.1ff53afb0748cd483d5f0ed13029f287.svg",
+    "static/media/linkedin.svg": "/Portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/Portfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/Portfolio/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "main.039bf95e.css.map": "/Portfolio/static/css/main.039bf95e.css.map",
+    "main.0979ba72.js.map": "/Portfolio/static/js/main.0979ba72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.0979ba72.js"
+  ]
+}
